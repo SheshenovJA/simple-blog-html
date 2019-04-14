@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.main-content
+{
+	margin-top: 50px;
+}
+
+.sector-main
+{
+
+}
+
+.sector-second{
+
+}
+.cat-name
+{
+	    color: #00acdf;
+	    font-weight: 500;
+   		font-size: 14px;
+   		text-transform: uppercase;
+
+}
